@@ -1,0 +1,12 @@
+# Dependências (não entregar)
+node_modules/
+
+# Senhas e configurações privadas (não entregar)
+.env
+.env.*
+!.env.example
+
+# Arquivos locais
+npm-debug.log*
+.DS_Store
+.vscode/
