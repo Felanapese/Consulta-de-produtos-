@@ -8,8 +8,8 @@ Cadastro e consulta de produtos. Cada produto tem: id, nome, categoria, preço, 
 
 ## Integrantes
 
-- Nome do integrante 1
-- Nome do integrante 2
+- Gabriel Ferraresi Martins de Mello
+- Felipe Vieira Toquero
 
 ## Como instalar e executar
 
